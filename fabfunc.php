@@ -7,6 +7,8 @@ Description: Краткое описание плагина Fabulous Functionali
 Version: 1.0
 Author: Andrey Kudlay
 Author URI: https://webformyself.com
+Text Domain: fabfunc
+Domain Path: /languages
 */
 
 defined( "ABSPATH" ) or die;
